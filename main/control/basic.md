@@ -1,5 +1,5 @@
 # 연출 제어
-![상태 표시 예시](image/main/basic.jpg)
+![상태 표시 예시](../../image/main/basic.jpg)
 
 ### 1. 전체 동작 OFF
 경기장 이미지에 실행되고 있는 연출을 종료합니다.
