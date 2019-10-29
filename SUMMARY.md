@@ -2,7 +2,8 @@
 
 * [소개](README.md)
 * [화면 구성](screen.md)
-* [기본 제어](basic.md)
-* [연출 선택](choose.md)
+  * [상태 표시](status.md)
+  * [연출 제어](basic.md)
+  * [연출 선택](choose.md)
 * [연출 편집](editor.md)
-* [연출 예시](example.md)
+  * [연출 예시](example.md)
