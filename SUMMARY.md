@@ -1,7 +1,7 @@
 # Summary
 
 * [소개](README.md)
-* [화면 구성](screen.md)
+* [메인 화면](screen.md)
   * [상태 표시](status.md)
   * [연출 제어](control.md)
     * [기본 제어](basic.md)
