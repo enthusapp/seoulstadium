@@ -1,4 +1,5 @@
 # 편집 화면
+![전체 화면](image/set/total.jpg)
 
 ![](image/set/새로운연출만들기2-2.png)
 
