@@ -8,7 +8,6 @@
     * [연출 선택](main/control/choose.md)
 * [연출 편집](editor.md)
   * [그룹, 이름, 밝기 설정](editor/name.md)
-  * [천장등, 복도등 설정](editor/roof_floor.md)
   * [색상 설정](editor/color.md)
   * [연출 형태](editor/type.md)
   * [동작 시간 설정](editor/speed.md)
