@@ -1,6 +1,6 @@
 # 편집 화면
 
-![전체 화면](image/set/total.jpg)
+![전체 화면](image/set/total_2.png)
 
 ## 1. 메인 버튼
 ### 시뮬레이션
