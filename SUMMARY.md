@@ -11,6 +11,7 @@
   * [색상 설정](editor/color.md)
   * [연출 형태](editor/type.md)
   * [동작 시간 설정](editor/speed.md)
+  * [연출 복사](editor/copy.md)
   * [예시](editor/example.md)
     * [천장등 복도등 동기화](editor/example/sync.md)
     * [정지 색상](editor/example/stoped.md)
