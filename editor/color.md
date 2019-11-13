@@ -20,4 +20,4 @@
 클릭하면 **2-1. 색상 선택** 팝업창이 나타나면서 선택된 색상을 변경할 수 있습니다.
 
 ## 5. 천장 설정 동기화
-체크 시 천장 설정 같은 설정으로 복도 설정이 [동기화](.../editor/example/sync.md#%EC%B2%9C%EC%9E%A5-%EB%B3%B5%EB%8F%84-%EC%A1%B0%EB%AA%85-%EC%97%B0%EC%B6%9C-%EB%8F%99%EA%B8%B0%ED%99%94) 됩니다.
+체크 시 천장 설정 같은 설정으로 복도 설정이 [동기화](../editor/example/sync.md#%EC%B2%9C%EC%9E%A5-%EB%B3%B5%EB%8F%84-%EC%A1%B0%EB%AA%85-%EC%97%B0%EC%B6%9C-%EB%8F%99%EA%B8%B0%ED%99%94) 됩니다.
