@@ -14,4 +14,4 @@ RGB(Red, Green, Blue) 의 3 색 LED 라인바가 435 개의 고해상도 pixel �
 연출 설정에 따라 바로 위의 천장등과 동일한 색상을 표현할 수 있고, 천장등과 다른 형태의 연출을 표현할 수도 있습니다.
 천장등과 동일한 색상을 표현할 경우 Gradient 효과가 더해져 더 부드럽게 색이 변하게 됩니다.
 
-<a href="seoulExternalLight_v1.0.pdf" target="_blank" >PDF 다운로드</a>
+<a href="seoulExternalLight_v1.0.1.pdf" target="_blank" >PDF 다운로드</a>
