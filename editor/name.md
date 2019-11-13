@@ -1,5 +1,5 @@
 # 그룹, 이름, 밝기 설정
-![그룹 이름 밝기 설정](../image/set/group_name_bright.jpg)
+![그룹 이름 밝기 설정](../image/set/group_name_bright_2.png)
 
 ## 1. 그룹 선택
 새로운 그룹을 만들거나 연출 시나리오가 묶일 그룹을 선택합니다.
